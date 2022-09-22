@@ -1,0 +1,33 @@
+body{
+  background-image: url(https://blog.soyhenry.com/content/images/2021/12/PRESENTACION-3.jpg);
+}
+
+div,#thirdDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center}
+  
+h1 {
+    color: brown;
+  }
+
+  img {
+    width: 400px;
+  }
+
+  #thirdDiv{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: 500px;
+    background-color: rgb(167, 125, 125);
+    padding: 50px;
+    border:solid red
+  }
+
+  #spanId{
+    font-size: 18px;
+    margin: 50px;
+  }
